@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">androidProject</string>
+    <string name="home">Home</string>
+    <string name="friends">Friends</string>
+    <string name="add">Add post</string>
+    <string name="search">Search</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="video">Video</string>
+    <string name="menu">Menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
